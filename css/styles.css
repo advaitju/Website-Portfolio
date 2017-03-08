@@ -14,27 +14,21 @@ body {
   font-family: "Montserrat", sans-serif;
   font-weight: 300; }
 
+a {
+  color: gold; }
+
 .block {
   background-size: cover;
   background-position: center;
-  position: relative; }
+  position: relative;
+  overflow: hidden; }
+  .block i {
+    margin-right: 30px;
+    margin-top: 20px; }
 
-.block_hero {
-  min-height: 100vh;
-  background-color: #fff; }
+.block__background {
+  max-height: 100%; }
 
-.block_hero__background {
-  max-height: 100%;
-  animation-name: rotate;
-  animation-duration: 180s;
-  animation-iteration-count: infinite;
-  animation-timing-function: linear; }
-
-@keyframes rotate {
-  from {
-    transform: rotate(0deg) translate(-50%, -50%); }
-  to {
-    transform: rotate(360deg) translate(-50%, -50%); } }
 .block__content {
   background-color: #fff;
   width: 80%;
@@ -42,9 +36,14 @@ body {
   margin-right: auto;
   padding: 3%;
   word-wrap: break-word; }
-  .block__content .block__content__title {
-    font-weight: 100;
-    font-size: 350%; }
+
+.block__content__title {
+  font-weight: 100;
+  font-size: 350%; }
+
+.block_title {
+  font-weight: 400;
+  font-size: 350%; }
 
 .row_padded {
   padding: 6% 0; }
@@ -70,9 +69,18 @@ body {
   box-shadow: 0px 0px 110px rgba(0, 0, 0, 0.2);
   z-index: 2; }
 
+.h_100vh {
+  min-height: 100vh; }
+
+.bg-fff {
+  background-color: #fff; }
+
 @media (max-width: 768px) {
   body, html {
     font-size: 16px; }
+
+  .block__content {
+    padding: 5%; }
 
   .hero-block__content {
     width: 90%; } }
