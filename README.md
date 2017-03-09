@@ -19,6 +19,7 @@ I started working on the Website / Portfolio by creating a mood board on Pintere
 ![Pinterest board screenshot for Advait Junnarkar's Website / Portfolio](img/screenshot-advait-junnarkar-pinterest-board.png)
 </a>
 More on Pinterest: https://au.pinterest.com/advaitju/web-design-inspiration/
+
 <a href="https://trello.com/b/HWQamff8/coder-factory-portfolio" target="_blank">
 ![Trello board screenshot for Advait Junnarkar's Website / Portfolio](img/screenshot-advait-junnarkar-trello-board.png)
 </a>
