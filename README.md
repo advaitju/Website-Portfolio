@@ -1,5 +1,6 @@
-# Website-Portfolio
-![Screenshot of Advait Junnarkar's Website / Portfolio](img/screenshot-advait-junnarkar-website-portfolio.png)
+# <a href="https://advaitju.github.io/Website-Portfolio/" target="_blank">Website-Portfolio</a>
+### <a href="https://advaitju.github.io/Website-Portfolio/" target="_blank">Visit website.</a>
+<a href="https://advaitju.github.io/Website-Portfolio/" target="_blank">![Screenshot of Advait Junnarkar's Website / Portfolio](img/screenshot-advait-junnarkar-website-portfolio.png)</a>
 
 ## About
 My personal website / portfolio to showcase my skills, work, personality and goals.
